@@ -25,8 +25,8 @@ This repository contains the full Learning Pack for the Convolution Kernels topi
 ├── ai_journal.pdf
 ├── simulator/
 │   ├── app.py
-│   ├── requirements.txt
-│   └── README.md
+│   ├── requirements_simulator.txt
+│   └── README_SIMULATOR.md
 └── further_reading/
     └── further_reading.pdf
 ```
@@ -37,7 +37,7 @@ This repository contains the full Learning Pack for the Convolution Kernels topi
 
 **Step 1 — Install dependencies:**
 ```bash
-pip install -r requirements.txt
+pip install -r simulator/requirements_simulator.txt
 ```
 
 **Step 2 — Launch:**
