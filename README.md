@@ -28,7 +28,14 @@ This repository contains the full Learning Pack for the Convolution Kernels topi
 │   ├── requirements_simulator.txt
 │   └── README_SIMULATOR.md
 └── further_reading/
-    └── further_reading.pdf
+    ├── Chollet (2017).pdf
+    ├── Fukushima (1980).pdf
+    ├── Haussler (1999).pdf
+    ├── Howard et al. (2017).pdf
+    ├── Krizhevsky et al. (2012).pdf
+    ├── LeCun et al. (1998).pdf
+    ├── Waibel et al. (1989).pdf
+    └── Yu & Koltun (2016).pdf
 ```
 
 ---
