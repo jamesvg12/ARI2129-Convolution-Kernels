@@ -36,7 +36,6 @@ This repository contains the full Learning Pack for the Convolution Kernels topi
     ├── LeCun et al. (1998).pdf
     ├── Waibel et al. (1989).pdf
     └── Yu & Koltun (2016).pdf
-```
 
 ---
 
@@ -58,9 +57,13 @@ The simulator opens in your browser automatically. It allows you to adjust kerne
 
 ## Running the Notebook
 
-```bash
-jupyter notebook walkthrough.ipynb
-```
+Install dependencies:
+
+    pip install -r requirements.txt
+
+Then launch:
+
+    jupyter notebook walkthrough.ipynb
 
 ---
 
